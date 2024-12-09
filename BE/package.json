@@ -28,11 +28,11 @@
 
         "cors": "^2.8.5",
 
-        "express": "^4.17.1",
+        "express": "^4.21.2",
 
         "jsonwebtoken": "^8.5.1",
 
-        "mongoose": "^5.5.15",
+        "mongoose": "^8.8.3",
 
         "validation": "0.0.1"
 
